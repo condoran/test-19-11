@@ -13,8 +13,8 @@ The project will open on localhost:3000
 ## Functionality
 
 Searching a user will return all his gists in a paginated table, 
-To change how many gists are shown on the page, change the number from "Rows" in the bottom left position of the table
-To change the page you are curently viewing change the number from "Page" in the bottom left position of the table or just move through the pages with the left and right buttons from the bottom left of the table
+- To change how many gists are shown on the page, change the number from "Rows" in the bottom left position of the table
+- To change the page you are curently viewing change the number from "Page" in the bottom left position of the table or just move through the pages with the left and right buttons from the bottom left of the table
 
 ## Listed data
 
