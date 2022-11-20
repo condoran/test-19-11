@@ -1,6 +1,9 @@
+import HomepageComponent from "../../Components/HomepageComponent";
+
+
 const Homepage = (props) => {
     return (
-        <div>Homepage</div>
+        <div><HomepageComponent /></div>
     )
 }
 
